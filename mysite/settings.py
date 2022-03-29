@@ -82,6 +82,8 @@ DATABASES = {
     }
 }
 
+GIT = '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'
+
 if not DEBUG:
     # Tell Django to copy statics to the `staticfiles` directory
     # in your application directory on Render.
